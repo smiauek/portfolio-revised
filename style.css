@@ -44,6 +44,10 @@ a {
   font-size: 20px;
 }
 
+p {
+  margin: 55px;
+}
+
 /*styled links using pseudo-classes*/
 
 a:link    { color: #545454;  }
