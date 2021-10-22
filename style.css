@@ -45,8 +45,8 @@ a {
 
 /*styled links using pseudo-classes*/
 
-a:link    { color: gray;  }
+a:link    { color: #545454;  }
 a:visited { color:lightgray;   }
-a:hover   { color: slategray; }
-a:active  { color: black;  }
+a:hover   { color: black; }
+a:active  { color: blue;  }
 
